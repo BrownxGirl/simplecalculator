@@ -1,1 +1,1 @@
-Stomach aches this sucks, feel like coke
+Simple calculator part 1 with testing only adding and multiplying functions
